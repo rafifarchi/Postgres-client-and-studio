@@ -5,6 +5,7 @@ Postgres client and studio for android
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download_App-green?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.storage.postgres_studio)
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Non--Profit%20%2F%20Free-blue?style=for-the-badge)](#)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=rafifarchi%2FPostgres-client-and-studio&countColor=%232ccce4)
 
 A powerful, high-performance, **100% free and ad-free** PostgreSQL client and server monitoring companion for Android. 
 
